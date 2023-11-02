@@ -18,10 +18,6 @@ Use the dataset to understand what makes people interested into each other to go
 There are 2 files in the src folder:
 - Speed+Dating+Data+Key.doc : data description and meaning
 - Speed+Dating+Data+Key.csv : file containing all the data
-## Details for certification purpose
-
-* email adress: morgane.berrod@gmail.com
-* video link: https://share.vidyard.com/watch/4PXfDVMGzLboxNnF7BeKJ4?
 
 ## Authors
 
